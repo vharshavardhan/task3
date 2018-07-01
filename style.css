@@ -1,0 +1,159 @@
+.icon{
+width: 8%;
+height: auto;
+display: block;
+margin-left: auto;
+ }
+ li{
+   display: inline-block;
+   margin:0%;
+ }
+.ban1{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  height: 30%;
+  width: 80%;
+}
+.offers{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.o1{
+  width: 34.8%;
+}
+.ol>img{
+  width: 100%;
+
+}
+.o2{
+  width: 35%;
+}
+.o2>img{
+  width: 100%;
+}
+.banks{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.o3{
+  width: auto;
+}
+.o3>img{
+  width: 100%;
+
+}
+.o4{
+  width: auto;
+}
+.o4>img{
+  width:100%;
+}
+  .o5{
+    width: auto;
+  }
+  .o5>img{
+    width:100%;
+
+}
+.flat{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.o5{
+  width: auto;
+}
+.o5>img{
+  width: 100%;
+
+}
+.o6{
+  width: auto;
+}
+.o6>img{
+  width:100%;
+}
+.o7{
+  width: auto;
+}
+.o7>img{
+  width:100%;
+}
+.half{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.o8{
+  width: auto;
+}
+.o8>img{
+  width: 100%;
+
+}
+.o9{
+  width: auto;
+}
+.o9>img{
+  width:100%;
+}
+
+.extra{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.o10{
+  width: auto;
+}
+.o10>img{
+  width: 100%;
+
+}
+.top{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.o11{
+  width: auto;
+}
+.o11>img{
+  width: 100%;
+
+}
+.off{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.o12{
+  width: auto;
+}
+.ol2>img{
+  width: 100%;
+
+}
+.o13{
+  width: auto;
+}
+.o13>img{
+  width:100%;
+}
+.o14{
+  width: auto;
+}
+.o14>img{
+  width:100%;
+}
+.o15{
+  width: auto;
+}
+.o15>img{
+  width:100%;
+}
